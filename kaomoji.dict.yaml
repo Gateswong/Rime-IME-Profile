@@ -1,0 +1,36 @@
+# Rime dictionary - kaomoji
+# encoding: utf-8
+# ref: http://www.facemark.jp/
+
+---
+name: kaomoji
+version: "0.1"
+sort: origin
+...
+
+╮(╯_╰)╭	iktanshou	5
+╮(￣▽￣)╭	iktanshou	5
+m(_ _)m	ikditou	5
+≧▽≦	ikxiao	5
+⊙.⊙	iklengshen	5
+ˊ_>ˋ	ikwuyu	5
+¬_¬	ikxieyan	5
+눈_눈	ikxieyan	5
+( ・ˍ・)	ikmaimeng	5
+(´･ω･`)	ikhehe	5
+(#‵′)凸	ikbishi	5
+(つД`)	ikku	5
+(つ。⊂)	ikwulian	5
+(*/ω＼*)	ikwulian	5
+( ͡° ͜ʖ ͡°)✧	ikxiao	5
+∑(ﾟдﾟ;)	ikjingya	5
+( ╯-_-)╯~┴—┴ 	ikxianzhuo	5
+┯━┯ノ('－'ノ)	ikxianzhuo	5
+╧═╧╰（`□′╰）	ikxianzhuo	5
+_(:з」∠)_	ikwuyuebing	5
+～(￣▽￣～)(～￣▽￣)～	ikkaixin	5
+☐	isbox	5
+☑	ischecked	5
+☒	ischecked2	5
+✓	ischeck	5
+⨯	iscross	5

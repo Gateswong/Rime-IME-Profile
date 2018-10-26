@@ -1,0 +1,13 @@
+patch:
+  schema/dependencies:
+    - kaomoji
+  engine/translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+  recognizer/patterns/reverse_lookup: "^[a-z]{2,}$|^v[a-z]*$|^`[a-z]*$"
+  reverse_lookup:
+    dictionary: kaomoji
+    enable_completion: false
+    prefix: "`"   # 按`键直接调用kaomoji而跳过拼音
+    tips: "〔颜文字〕"
