@@ -1,0 +1,3 @@
+[submodule "rime-double-pinyin"]
+	path = rime-double-pinyin
+	url = https://github.com/rime/rime-double-pinyin
